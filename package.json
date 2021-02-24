@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/DuanOuan/lunzi#readme",
   "dependencies": {
+    "button-group": "0.0.4",
     "vue": "^2.6.12",
     "vue-hot-reload-api": "^2.3.4"
   },
